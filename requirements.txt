@@ -1,0 +1,9 @@
+pandas
+numpy
+typing
+mlflow
+dvc
+nltk
+dvclive
+logging
+os
